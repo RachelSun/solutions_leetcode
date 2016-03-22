@@ -18,4 +18,5 @@
    * [27.Remove Elements](27remove_elements.md)
    * [326.Power of Three](326power_of_three.md)
    * [191.Number of 1 Bits](191number_of_1_bits.md)
+   * 69.Sqrt (x)
 
