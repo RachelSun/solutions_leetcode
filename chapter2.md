@@ -1,3 +1,3 @@
 # Medium Ones
 
-This chapter contains the "medium- level" problems.
+This chapter contains the "medium-level" problems.
