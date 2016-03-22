@@ -35,7 +35,5 @@ Date: March 16, 2016
     }; 
 
 
-136.Single Number
-
 
 
