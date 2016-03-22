@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Medium Ones](medium_ones.md)
-   * [001Medium Ones](001medium_ones.md)
 * [Easy Ones](chapter1.md)
    * [283.Move Zeroes](283move_zeroes.md)
    * [226.Invert Binary Tree](226invert_binary_tree.md)
@@ -23,4 +21,8 @@
    * [50.Pow(x, n)](50powx,_n.md)
    * [58.Length of Last Word](58length_of_last_word.md)
    * [136.Single Number](136.single_number.md)
+ * [Medium Ones](medium_ones.md)
+   * [001Medium Ones](001medium_ones.md)
+* Hard Ones
+
 
