@@ -26,4 +26,5 @@
    * ReadMe
 * [Hard Ones](hard_ones.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
+   * ReadMe
 
