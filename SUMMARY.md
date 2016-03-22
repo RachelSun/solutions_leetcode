@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Medium Ones](medium_ones.md)
+   * 001Medium Ones
 * [Easy Ones](chapter1.md)
    * [283.Move Zeroes](283move_zeroes.md)
    * [226.Invert Binary Tree](226invert_binary_tree.md)
