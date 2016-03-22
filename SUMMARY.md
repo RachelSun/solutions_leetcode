@@ -13,5 +13,5 @@
    * [328.Odd Even Linked List](328odd_even_linked_list.md)
    * [263.Ugly Number](263ugly_number.md)
    * [292.Nim Game](292nim_game.md)
-   * 237.Delete Node in a Linked List
+   * [237.Delete Node in a Linked List](237delete_node_in_a_linked_list.md)
 
