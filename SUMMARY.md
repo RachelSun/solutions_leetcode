@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [Easy Ones](chapter1.md)
-   * [136.Single Number](136single_number.md)
-       * 58.Length of Last Word
+   * [136.Single Number](136single_number.md 
    * [283.Move Zeroes](283move_zeroes.md)
    * [226.Invert Binary Tree](226invert_binary_tree.md)
    * [100.Same Tree](100same_tree.md)
@@ -21,4 +20,5 @@
    * [191.Number of 1 Bits](191number_of_1_bits.md)
    * [69.Sqrt (x)](69sqrt_x.md)
    * [50.Pow(x, n)](50powx,_n.md)
+   * 58.Length of Last Word
 
