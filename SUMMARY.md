@@ -21,7 +21,6 @@
    * [50.Pow(x, n)](50powx,_n.md)
    * [58.Length of Last Word](58length_of_last_word.md)
    * [136.Single Number](136.single_number.md)
-       * [Medium Ones](medium_ones.md)
-   * [001Medium Ones](001medium_ones.md)
+* Medium Ones
 * [Hard Ones](hard_ones.md)
 
