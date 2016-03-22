@@ -19,7 +19,7 @@
    * [191.Number of 1 Bits](191number_of_1_bits.md)
    * [58.Length of Last Word](58length_of_last_word.md)
    * [ReadMe](readme.md)
-* [Medium Ones](medium_ones.md)
+* [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
    * [50.Pow(x, n)](50powx,_n.md)
