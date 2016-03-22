@@ -16,4 +16,5 @@
    * [237.Delete Node in a Linked List](237delete_node_in_a_linked_list.md)
    * [203.Remove Linked List Elements](203remove_linked_list_elements.md)
    * [27.Remove Elements](27remove_elements.md)
+   * 326.Power of Three
 
