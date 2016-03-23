@@ -39,7 +39,7 @@ Date: March 22, 2016
          
   **Note: **
 
-    As mentioned in the description, if the input number is not a happy number, the code loops endlessly in a cycle which does not include 1. 
+    As mentioned in the problem description, if the input number is not a happy number, the code loops endlessly in a cycle which does not include 1. 
 
     For example: 
 
@@ -47,6 +47,6 @@ Date: March 22, 2016
 
     [4, 16, 37, 58, 89, 145, 42, 20]
     
-    By using the hash map: map<int, int > m; we can track whether the numbers in the sequence occurs multiple times or not. If the m[sum] occurs twice (at least), which means that the input number is not a happy number, then return false.
+    By using the hash map: map<int, int > m; we can track whether the numbers in the sequence occurs  multiple times or not. If the m[sum] occurs twice (at least), which means that the input number is not a happy number, then return false.
     
     If the sum equals to 1, which means that the input number is a happy number, then return true.
