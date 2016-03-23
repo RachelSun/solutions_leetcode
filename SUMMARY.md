@@ -22,6 +22,7 @@
    * [202.Happy Number](202happy_number.md)
    * [66.Plus One](66plus_one.md)
    * [67.Add Binary](67add_binary.md)
+   * 70.Climbing Stairs
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
