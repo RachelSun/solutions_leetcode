@@ -14,6 +14,63 @@ You are given two linked lists representing two non-negative numbers. The digits
 
 Date: March 23, 2016
 
+    // Accepted, but very slow.
+    /**
+     * Definition for singly-linked list.
+     * struct ListNode {
+     *     int val;
+     *     ListNode *next;
+     *     ListNode(int x) : val(x), next(NULL) {}
+     * };
+     */
+    class Solution {
+    public:
+        ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+
+            ListNode n(0);
+            ListNode* sum = &n;
+            int temp;
+            int flag = 0;
+            while(l1 || l2)
+            {
+                if(l1&&!l2){
+                    temp = l1->val+flag;
+                }
+                else if(!l1&&l2){
+                    temp = l2->val+flag;
+                }
+                else{
+                    temp = l1->val+l2->val+flag;
+                }
+                if(temp/10){
+                    cout<<1;
+                    sum->next =new ListNode(temp%10);
+                    flag = 1;
+                } 
+                else{
+                    cout<<2;
+                    sum->next = new ListNode(temp);
+                    flag = 0;
+                }
+                if(l1){
+                    l1 = l1->next;
+                }
+                if(l2){
+                    l2 = l2->next;
+                }
+                sum = sum->next;
+            }
+            if(temp/10!= 0 && flag == 1) {
+                sum->next = new ListNode(temp/10);
+                sum = sum->next;
+            }
+            return n.next;
+        }
+    };
+
+
+Date: March 23, 2016
+
     // Run Time Error, this is a wrong answer.
     
     /*
