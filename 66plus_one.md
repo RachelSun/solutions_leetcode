@@ -18,7 +18,6 @@ Date: March 23, 2016
                     digits[i] = digits[i]+1;
                     break;
                 }
-                // If t
                 else{
                     digits[i] = 0;
                     i = i-1;
