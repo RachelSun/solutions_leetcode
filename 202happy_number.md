@@ -18,6 +18,8 @@ Example: 19 is a happy number
 
 Date: March 22, 2016
 
+    //Acknowledgement: A special gratitude I would like to tribute to Mr. Lu.
+    
     class Solution {
     public:
     map<int, int > m;
