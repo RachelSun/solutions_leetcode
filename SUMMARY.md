@@ -26,7 +26,7 @@
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
    * [50.Pow(x, n)](50powx,_n.md)
-   * 2.Add Two Numbers
+   * [2.Add Two Numbers](2add_two_numbers.md)
 * [Hard Ones](chapter3.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
 
