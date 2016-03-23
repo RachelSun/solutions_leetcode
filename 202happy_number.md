@@ -22,7 +22,6 @@ Date: March 22, 2016
     
     class Solution {
     public:
-    
     map<int, int > m;
     bool isHappy(int n){
             int sum = 0;
@@ -36,22 +35,18 @@ Date: March 22, 2016
             if(m[sum] == 2 ) return false;
             isHappy(sum);
         }   
-    };
-    
-   
-    **Note: **
+     };
+         
+  **Note: **
 
     As mentioned in the description, if the input number is not a happy number, the code loops endlessly in a cycle which does not include 1. 
 
     For example: 
 
-    If the input number is 2, the following numbers will repeat:
+    If the input number is 2, the following sequence will repeat:
 
-    [4
-    16
-    37
-    58
-    89
-    145
-    42
-    20]
+    [4, 16, 37, 58, 89, 145, 42, 20]
+    
+    By using the hash map: map<int, int > m; we can track whether the numbers in the sequence occurs multiple times or not. If the m[sum] occurs twice (at least), which means that the input number is not a happy number, then return false.
+    
+    If the sum equals to 1, which means that the input number is a happy number, then return true.
