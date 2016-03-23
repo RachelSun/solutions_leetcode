@@ -17,8 +17,7 @@ Date: March 23, 2016
                 if (digits[i] == 9) {
                     digits[i--] = 0;
                 }
-                else
-                {
+                else{
                     digits[i] += 1;
                     return digits;
                 }
@@ -54,7 +53,6 @@ Date: March 23, 2016
                     //i--;
                     // Modified according to the last version
                     digits[i--] = 0;
-                    
                 }
                 if(digits[0] == 0){
                   digits.insert(digits.begin(), 1); 
