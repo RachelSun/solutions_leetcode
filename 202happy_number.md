@@ -22,6 +22,7 @@ Date: March 22, 2016
     
     class Solution {
     public:
+    
     map<int, int > m;
     bool isHappy(int n){
             int sum = 0;
@@ -36,3 +37,21 @@ Date: March 22, 2016
             isHappy(sum);
         }   
     };
+    
+   
+    **Note: **
+
+    As mentioned in the description, if the input number is not a happy number, the code loops endlessly in a cycle which does not include 1. 
+
+    For example: 
+
+    If the input number is 2, the following numbers will repeat:
+
+    [4
+    16
+    37
+    58
+    89
+    145
+    42
+    20]
