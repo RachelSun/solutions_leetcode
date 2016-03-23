@@ -18,7 +18,6 @@
    * [326.Power of Three](326power_of_three.md)
    * [191.Number of 1 Bits](191number_of_1_bits.md)
    * [58.Length of Last Word](58length_of_last_word.md)
-   * [ReadMe](readme.md)
    * [9.Palindrome Number](9palindrome_number.md)
    * [202.Happy Number](202happy_number.md)
 * [Medium Ones](chapter2.md)
