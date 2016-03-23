@@ -20,6 +20,7 @@
    * [58.Length of Last Word](58length_of_last_word.md)
    * [ReadMe](readme.md)
    * [9.Palindrome Number](9palindrome_number.md)
+   * 202. Happy Number
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
