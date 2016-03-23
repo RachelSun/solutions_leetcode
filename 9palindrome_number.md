@@ -20,7 +20,7 @@ Date: March 22, 2016
                 rev = (rev*10) + (x%10);
                 x = x/10;
             }
-            if(rev == temp )  return true;
+            if(rev == temp)  return true;
             return false;
-        }
+        
     };
