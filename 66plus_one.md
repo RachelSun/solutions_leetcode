@@ -20,7 +20,7 @@ Date: March 23, 2016
                 }
                 else{
                     digits[i] = 0;
-                    i --;
+                    i--;
                 }
                 if(digits[0] == 0){
                   digits.insert(digits.begin(), 1); 
