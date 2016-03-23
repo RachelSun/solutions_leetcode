@@ -32,4 +32,3 @@ Date: March 16, 2016
               return false;
         }
     };
-
