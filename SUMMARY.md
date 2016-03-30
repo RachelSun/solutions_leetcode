@@ -24,6 +24,7 @@
    * [67.Add Binary](67add_binary.md)
    * [70.Climbing Stairs](70climbing_stairs.md)
    * [205.Isomorphic Strings](205isomorphic_strings.md)
+   * 88.Merge Sorted Array
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
