@@ -16,6 +16,8 @@ Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one s
     
 ** My solutions:**
 
+Date: March 30, 2016
+
     class Solution {
     public:
         void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
