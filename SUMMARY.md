@@ -31,13 +31,12 @@
    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
    * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
-   * [165.Compare Version Numbers](165compare_version_numbers.md
+   * [[165.Compare Version Numbers](165compare_version_numbers.md]([165compare_version_numbers]165compareversion_numb.md)
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
    * [50.Pow(x, n)](50powx,_n.md)
-
 * [Hard Ones](chapter3.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
 
