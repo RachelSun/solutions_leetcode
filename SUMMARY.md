@@ -31,7 +31,6 @@
    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
    * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
-   * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
