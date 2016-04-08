@@ -22,7 +22,6 @@ Date: March 30, 2016
     public:
         void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
             nums1.resize(m+n);
-            cout<<nums1.size()<<endl;
             vector<int>::iterator iter1 = nums1.begin(),iter2 = nums2.begin();
             while(iter2!=nums2.end()){
                 if(*iter2<=*iter1){
@@ -30,9 +29,7 @@ Date: March 30, 2016
                     iter2++;
                     iter1--;
                 } 
-                else{
-                    iter1++;
-               }
+                else iter1++;    
             }
         }
     };
