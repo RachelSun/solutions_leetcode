@@ -31,7 +31,7 @@
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [6.ZigZag Conversion](6zigzag_conversion.md)
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
-   * 21.Merge Two Sorted Lists
+   * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
