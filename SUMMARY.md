@@ -8,7 +8,7 @@
    * [169.Majority Element](169majority_element.md)
    * [242.Valid Anagram](242valid_anagram.md)
    * [206.Reverse Linked List](206reverse_linked_list.md)
-   * [13.Roman to Integer](13roman_to_integer.md)
+
    * [328.Odd Even Linked List](328odd_even_linked_list.md)
    * [263.Ugly Number](263ugly_number.md)
    * [292.Nim Game](292nim_game.md)
@@ -18,7 +18,6 @@
    * [326.Power of Three](326power_of_three.md)
    * [191.Number of 1 Bits](191number_of_1_bits.md)
    * [58.Length of Last Word](58length_of_last_word.md)
-   * [9.Palindrome Number](9palindrome_number.md)
    * [202.Happy Number](202happy_number.md)
    * [66.Plus One](66plus_one.md)
    * [67.Add Binary](67add_binary.md)
@@ -27,8 +26,11 @@
    * [88.Merge Sorted Array](88merge_sorted_array.md)
    * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
+   * [2.Add Two Numbers](2add_two_numbers.md)
    * [6.ZigZag Conversion](6zigzag_conversion.md)
    * [7.Reverse Integer](7reverse_integer.md)
+   * [9.Palindrome Number](9palindrome_number.md)
+   * [13.Roman to Integer](13roman_to_integer.md)
    * [165.Compare Version Numbers](165compare_version_numbers.md
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
@@ -36,7 +38,7 @@
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
    * [50.Pow(x, n)](50powx,_n.md)
-   * [2.Add Two Numbers](2add_two_numbers.md)
+
 * [Hard Ones](chapter3.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
 
