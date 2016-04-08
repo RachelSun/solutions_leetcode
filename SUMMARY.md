@@ -27,9 +27,9 @@
    * [88.Merge Sorted Array](88merge_sorted_array.md)
    * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
-   * [7.Reverse Integer](7reverse_integer.md)
-   * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [6.ZigZag Conversion](6zigzag_conversion.md)
+   * [7.Reverse Integer](7reverse_integer.md)
+   * [165.Compare Version Numbers](165compare_version_numbers.md
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
 * [Medium Ones](chapter2.md)
