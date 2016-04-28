@@ -33,6 +33,7 @@
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
    * [165.Compare Version Numbers](165compare_version_numbers.md)
+   * 344.Reverse String
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
