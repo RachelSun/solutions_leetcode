@@ -7,6 +7,7 @@
    * [7.Reverse Integer](7reverse_integer.md)
    * [9.Palindrome Number](9palindrome_number.md)
    * [13.Roman to Integer](13roman_to_integer.md)
+   * [61.Rotate List](61rotate_list.md)
    * [283.Move Zeroes](283move_zeroes.md)
    * [226.Invert Binary Tree](226invert_binary_tree.md)
    * [100.Same Tree](100same_tree.md)
@@ -35,7 +36,7 @@
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [344.Reverse String](344reverse_string.md)
    * [83.Remove Duplicates from Sorted List](83remove_duplicates_from_sorted_list.md)
-   * [61.Rotate List](61rotate_list.md)
+
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
