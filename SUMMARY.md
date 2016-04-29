@@ -35,6 +35,7 @@
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [344.Reverse String](344reverse_string.md)
    * [83.Remove Duplicates from Sorted List](83remove_duplicates_from_sorted_list.md)
+   * 61.Rotate List
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
