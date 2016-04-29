@@ -7,7 +7,7 @@
    * [7.Reverse Integer](7reverse_integer.md)
    * [9.Palindrome Number](9palindrome_number.md)
    * [13.Roman to Integer](13roman_to_integer.md)
-   *    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
+   * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
    * [27.Remove Elements](27remove_elements.md)
    * [61.Rotate List](61rotate_list.md)
    * [66.Plus One](66plus_one.md)
