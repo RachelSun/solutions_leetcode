@@ -5,6 +5,7 @@
    * [2.Add Two Numbers](2add_two_numbers.md)
    * [6.ZigZag Conversion](6zigzag_conversion.md)
    * [7.Reverse Integer](7reverse_integer.md)
+   * 8.Try the list
    * [9.Palindrome Number](9palindrome_number.md)
    * [13.Roman to Integer](13roman_to_integer.md)
    * [61.Rotate List](61rotate_list.md)
