@@ -5,7 +5,7 @@
    * [2.Add Two Numbers](2add_two_numbers.md)
    * [6.ZigZag Conversion](6zigzag_conversion.md)
    * [7.Reverse Integer](7reverse_integer.md)
-   * 8.Try the list
+   * [8.Try the list](8try_the_list.md)
    * [9.Palindrome Number](9palindrome_number.md)
    * [13.Roman to Integer](13roman_to_integer.md)
    * [61.Rotate List](61rotate_list.md)
@@ -37,7 +37,6 @@
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [344.Reverse String](344reverse_string.md)
    * [83.Remove Duplicates from Sorted List](83remove_duplicates_from_sorted_list.md)
-
 * [Medium Ones](chapter2.md)
    * [136.Single Number](136.single_number.md)
    * [69.Sqrt (x)](69sqrt_x.md)
