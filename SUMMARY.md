@@ -18,6 +18,7 @@
    * [83.Remove Duplicates from Sorted List](83remove_duplicates_from_sorted_list.md)
    * [88.Merge Sorted Array](88merge_sorted_array.md)
    * [100.Same Tree](100same_tree.md)
+   * 118.Pascal's Triangle
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)   
    * [169.Majority Element](169majority_element.md)
