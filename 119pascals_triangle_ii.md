@@ -13,6 +13,22 @@ Could you optimize your algorithm to use only O(k) extra space?
 
 Date: May 3, 2016
 
+
+
+| index | 0 | 1 | 2 | 3 |
+| -- | -- | -- | -- | -- |
+| **0** | 1 | 0 | 0 | 0 |
+| **1** | 1 | 1 | 0 | 0 |
+| **2** | 1 | 2 | 1 | 0|
+| **3** | 1 | 3 | 3 | 1 |
+
+* 
+Initial the vector as[1, 0, 0, 0, ...]
+* 
+Skip the first element (as always 1)
+
+
+
     // 2ms
     class Solution {
     public:
