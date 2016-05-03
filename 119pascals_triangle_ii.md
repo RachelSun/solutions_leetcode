@@ -26,6 +26,8 @@ Date: May 3, 2016
 Initial the vector as[1, 0, 0, 0, ...]
 * 
 Skip the first element (as always 1)
+* 
+The rest will be the previous + current
 
 
 
