@@ -40,9 +40,9 @@
    * [328.Odd Even Linked List](328odd_even_linked_list.md)
    * [344.Reverse String](344reverse_string.md)
 * [Medium Ones](chapter2.md)
-   * [136.Single Number](136.single_number.md)
    * [50.Pow(x, n)](50powx,_n.md)
    * [69.Sqrt (x)](69sqrt_x.md)
+   * [136.Single Number](136.single_number.md)
 * [Hard Ones](chapter3.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
 
