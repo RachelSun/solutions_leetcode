@@ -12,3 +12,18 @@ Could you optimize your algorithm to use only O(k) extra space?
 ** My Solutions:**
 
 Date: May 3, 2016
+
+class Solution {
+public:
+    vector<int> getRow(int rowIndex) {
+        int rowNum = rowIndex+1;
+        vector<int> vec(rowNum,0);
+        vec[0] = 1;
+        while(rowNum--){
+            for(int i = 1; i<= rowNum; i++){
+                vec[i] +=vec[i-1];
+            }
+        }
+        return vec;
+    }
+};
