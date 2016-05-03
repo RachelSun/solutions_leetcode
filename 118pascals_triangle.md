@@ -27,7 +27,7 @@ Date: May 3, 2016
                 vec.push_back(temp);
             }
             for(int i = 2; i<numRows; i++){
-                for(int j = 1; i<i;i++){
+                for(int j = 1; j<i; j++){
                     vec[i][j] = vec[i-1][j]+vec[i-1][j-1];
                 }
             }
