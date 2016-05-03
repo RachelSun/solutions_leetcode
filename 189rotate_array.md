@@ -14,7 +14,7 @@ Try to come up as many solutions as you can, there are at least 3 different ways
 
 Date: May 3, 2016
 
-    Solution 1, 56ms
+    // Solution 1, 56ms
     // Use the erase function in the loop everytime when move a number.----> slow
 
     class Solution {
@@ -32,17 +32,15 @@ Date: May 3, 2016
     };
     
     
-    
-    
-    Solution 2, 24ms
+    // Solution 2, 24ms
+    // Move the part of erasing the elements outside of the loop to reduce operation time.
     
     class Solution {
     public:
         void rotate(vector<int>& nums, int k) {
             int nl = nums.size();
             k = k%nl;
-            int m = nl-k;
-            for(int i = 0; i< m; i++){
+            for(int i = 0; i< nl-k; i++){
                 nums.push_back(nums[i]);
             }
             nums.erase(nums.begin(), nums.begin()+m);
