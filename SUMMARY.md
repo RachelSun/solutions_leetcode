@@ -38,7 +38,7 @@
    * [292.Nim Game](292nim_game.md)
    * [326.Power of Three](326power_of_three.md)
    * [328.Odd Even Linked List](328odd_even_linked_list.md)
-   * 342.Power of Four
+   * [342.Power of Four](342power_of_four.md)
    * [344.Reverse String](344reverse_string.md)
 * [Medium Ones](chapter2.md)
    * [50.Pow(x, n)](50powx,_n.md)
