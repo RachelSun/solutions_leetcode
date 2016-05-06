@@ -20,6 +20,7 @@
    * [100.Same Tree](100same_tree.md)
    * [118.Pascal's Triangle](118pascals_triangle.md)
    * [119.Pascal's Triangle II](119pascals_triangle_ii.md)
+   * 121.Best Time to Buy and Sell Stock
    * [165.Compare Version Numbers](165compare_version_numbers.md)
    * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
    * [169.Majority Element](169majority_element.md)
