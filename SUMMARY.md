@@ -9,6 +9,7 @@
    * [13.Roman to Integer](13roman_to_integer.md)
    * [19.Remove Nth Node From End of List](19remove_nth_node_from_end_of_list.md)
    * [21.Merge Two Sorted Lists](21merge_two_sorted_lists.md)
+   * 24.Swap Nodes in Pairs 
    * [26.Remove Duplicates from Sorted Array](26remove_duplicates_from_sorted_array.md)
    * [27.Remove Elements](27remove_elements.md)
    * [58.Length of Last Word](58length_of_last_word.md)
