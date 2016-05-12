@@ -49,6 +49,7 @@
    * [80.Remove Duplicates from Sorted Array](80remove_duplicates_from_sorted_array.md)
    * [122.Best Time to Buy and Sell Stock II](122best_time_to_buy_and_sell_stock_ii.md)
    * [136.Single Number](136.single_number.md)
+   * 268.Missing Number 
    * [309.Best Time to Buy and Sell Stock with Cooldown](309best_time_to_buy_and_sell_stock_with_cooldown.md)
 * [Hard Ones](chapter3.md)
    * [287.Find the Duplicate Number](287find_the_duplicate_number.md)
