@@ -16,6 +16,7 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 
 Date: June 9, 2016
 
+      // I guess this problem can be solved by bit manipulation
       // 24ms
       // Sort and Compare
       class Solution {
