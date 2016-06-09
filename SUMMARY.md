@@ -28,6 +28,7 @@
    * [169.Majority Element](169majority_element.md)
    * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
    * [189.Rotate Array](189rotate_array.md)
+   * 190.Reverse Bits
    * [191.Number of 1 Bits](191number_of_1_bits.md)
    * [202.Happy Number](202happy_number.md)
    * [203.Remove Linked List Elements](203remove_linked_list_elements.md)
