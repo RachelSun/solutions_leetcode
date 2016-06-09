@@ -32,8 +32,9 @@ Date: June 9, 2016
 
               // Sort and Compare
               sort (nums.begin(), nums.end()); 
-              int cnt = 0;
+              
               // if the first number is the target number
+              int cnt = 0;
               if(nums[0]!= nums[1]) {
                  result[cnt] = nums[0];
                  cnt++;
