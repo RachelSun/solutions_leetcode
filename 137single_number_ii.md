@@ -13,6 +13,7 @@ Date: June 9, 2016
 
 
     //22 ms
+    // I was directed from problem 260, thus I thought those problems can all be solved using bit manipulations.
     class Solution {
     public:
         int singleNumber(vector<int>& nums) {
