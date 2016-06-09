@@ -1,4 +1,4 @@
-# 190.Reverse Bits
+# 190.Reverse Bits -- not finished
 
 **Problem:**
 Reverse bits of a given 32 bits unsigned integer.
