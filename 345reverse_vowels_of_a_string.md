@@ -15,7 +15,10 @@ Write a function that takes a string as input and reverse only the vowels of a s
 
 Date: June 14, 2016
 
-        // An incorrect solution. Since there are strings such as "xxxx xxx"...
+        // An incorrect solution. 
+        // There is one example "race car" -> "race car"
+        
+        // Fine, I did not learn English well...
 
 
         class Solution {
