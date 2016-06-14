@@ -44,7 +44,7 @@
    * [328.Odd Even Linked List](328odd_even_linked_list.md)
    * [342.Power of Four](342power_of_four.md)
    * [344.Reverse String](344reverse_string.md)
-   * 345.Reverse Vowels of a String
+   * [345.Reverse Vowels of a String](345reverse_vowels_of_a_string.md)
 * [Medium Ones](chapter2.md)
    * [50.Pow(x, n)](50powx,_n.md)
    * [69.Sqrt (x)](69sqrt_x.md)
