@@ -7,10 +7,11 @@ Given a positive integer, output its complement number. The complement strategy 
 
 Solutions:
 
-    C++ Slutions
-
+```
+C++ Solution
 ```
 
+```
 #include <math.h>
 class Solution {
    public:
