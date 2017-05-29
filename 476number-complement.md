@@ -5,12 +5,12 @@ Given a positive integer, output its complement number. The complement strategy 
 1. The given integer is guaranteed to fit within the range of a 32-bit signed integer.
 2. You could assume no leading zero bit in the integer’s binary representation.
 
-Solutions:
+        Solutions:
 
 ```
    C++
 
-#include &lt;math.h&gt;
+#include <math.h>
 class Solution {
    public:
    int findComplement(int num) {
