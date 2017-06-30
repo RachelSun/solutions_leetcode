@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Easy Ones](chapter1.md)
+
   * [2.Add Two Numbers](2add_two_numbers.md)
   * [6.ZigZag Conversion](6zigzag_conversion.md)
   * [7.Reverse Integer](7reverse_integer.md)
@@ -23,9 +24,9 @@
   * [118.Pascal's Triangle](118pascals_triangle.md)
   * [119.Pascal's Triangle II](119pascals_triangle_ii.md)
   * [121.Best Time to Buy and Sell Stock](121best_time_to_buy_and_sell_stock.md)
-  * 141. Linked List Cycle
-
+  * Linked List Cycle
   * [165.Compare Version Numbers](165compare_version_numbers.md)
+
   * [168.Excel Sheet Column Title](168excel_sheet_column_title.md)
   * [169.Majority Element](169majority_element.md)
   * [171.Excel Sheet Column Number](171excel_sheet_column_number.md)
@@ -49,6 +50,7 @@
   * [345.Reverse Vowels of a String](345reverse_vowels_of_a_string.md)
   * [476.Number Complement](476number-complement.md)
   * [141.Linked List Cycle](141linked-list-cycle.md)
+
 * [Medium Ones](chapter2.md)
   * [50.Pow\(x, n\)](50powx,_n.md)
   * [69.Sqrt \(x\)](69sqrt_x.md)
