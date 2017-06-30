@@ -1,4 +1,6 @@
-141. Linked List Cycle
+### 141. Linked List Cycle
+
+
 
  Given a linked list, determine if it has a cycle in it.
 
@@ -7,13 +9,19 @@
 
 
 
-    /\*\*
 
-       \* Definition for singly-linked list.
 
-       \* struct ListNode {
+Solutions:
 
-     \*     int val;
+June 30, 2017
+
+/\*\*
+
+ \* Definition for singly-linked list.
+
+ \* struct ListNode {
+
+ \*     int val;
 
  \*     ListNode \*next;
 
@@ -31,17 +39,11 @@ public:
 
         // At least three 
 
-        if\(head == NULL \|\| head-&gt;next == NULL\) {
-
-            return false;
-
-        }
+        if\(head == NULL \|\| head-&gt;next == NULL\) return false;
 
         ListNode\* fast = head;
 
         ListNode\* slow = head;
-
-
 
         while\(fast-&gt;next != NULL && fast-&gt;next-&gt;next != NULL\) {
 
@@ -49,19 +51,17 @@ public:
 
             slow = slow-&gt;next;
 
-            if\(slow == fast\) {
-
-                return true;
-
-            }
+            if\(slow == fast\) return true;
 
         }
-
-
 
         return false;
 
     }
 
 };
+
+
+
+
 
